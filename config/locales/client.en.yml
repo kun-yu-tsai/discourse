@@ -266,8 +266,8 @@ en:
     about:
       simple_title: "About"
       title: "About %{title}"
-      stats: "Site Statistics"
-      our_admins: "Our Admins"
+      stats: "I don't understand??"
+      our_admins: "This has to be changed..."
       our_moderators: "Our Moderators"
       moderators: "Moderators"
       stat:
